@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Jotion(Notion clone) is a fullstack application which is used for incorporating collaborative note-taking, task management, and knowledge organization features. Implemented real-time collaboration, intuitive user interface, and customizable templates to enhance user experience
 Key Features:
 Real-time database 🔗
 Notion-style editor 📝
